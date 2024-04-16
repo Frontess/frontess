@@ -1,5 +1,8 @@
-### Hi there 👋 Marina
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Frontend+developer)](https://git.io/typing-svg)
+<div id="header" align="center"> 
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋+Marina+-+frontend+developer)](https://git.io/typing-svg)
+
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXU3a3BqY29zcGliN215c3FtdHh3aXdqMTdubnhndzUxMHFrNmdrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
