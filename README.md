@@ -26,9 +26,8 @@
 - :zap: In my free time, I read and ride a bike.
 
 <div id="" align="center">
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontess)](https://github.com/anuraghazra/github-readme-stats)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frontess&theme=default)
 </div>
 
 <div id="" align="center">
