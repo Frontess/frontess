@@ -1,6 +1,7 @@
 <div id="header" align="center"> 
+  <h2>It's me, @frontess!</h2>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there+👋+Marina+-+frontend+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=+👋+Marina+-+frontend+developer)](https://git.io/typing-svg)
 
 </div>
 
