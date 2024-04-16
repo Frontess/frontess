@@ -24,8 +24,5 @@
 
 - :zap: In my free time, I read and ride a bike.
 
-- :mailbox:How to reach me: <a href="linkedin-url"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
-badge&logo=linkedin&logoColor=white" alt="Telegram"/>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontess)](https://github.com/anuraghazra/github-readme-stats)
