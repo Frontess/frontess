@@ -22,8 +22,6 @@
 
 - :telescope: I’m looking for a job as a frontend developer for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
 - :zap: In my free time, I read and ride a bike.
 
 - :mailbox:How to reach me: <a href="linkedin-url"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-
