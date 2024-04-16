@@ -11,12 +11,10 @@
   <img src=https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)/>
   <img src=https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)/>
   <img src=https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)/>
+  <img src=https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)/>
   
 </div>
 <br>
-<div id="" align="center">
-  <img src="https://komarev.com/ghpvc/?username=frontess&style=flat-square&color=blue" alt=""/>
-  </div>
 
   ### :woman_technologist: About Me :
 
@@ -24,5 +22,12 @@
 
 - :zap: In my free time, I read and ride a bike.
 
-
+<div id="" align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frontess)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
+<div id="" align="center">
+  <img src="https://komarev.com/ghpvc/?username=frontess&style=flat-square&color=blue" alt=""/>
+  </div>
