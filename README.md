@@ -32,11 +32,13 @@
 
 - :zap: In my free time, I read and ride a bike.
 
-<div id="" align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=frontess&theme=default)
+<div id="footer" align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=frontess&theme=default)
+
 </div>
 
-<div id="" align="center">
+<div id="footer" align="center">
   <img src="https://komarev.com/ghpvc/?username=frontess&style=flat-square&color=blue" alt=""/>
   </div>
